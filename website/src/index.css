@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+:root {
+    background-color: oklch(98.5% 0.002 247.839);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow: hidden;
+    animation: fadeIn 1s;
+    color: oklch(20.8% 0.042 265.755);
+}
