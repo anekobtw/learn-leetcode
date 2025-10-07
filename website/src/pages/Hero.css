@@ -13,7 +13,8 @@ button {
 }
 
 button:hover {
-  background-color: black;
+  background-color: darkorange;
+  border-color: darkorange;
   color: white;
   cursor: pointer;
   scale: 110%;
