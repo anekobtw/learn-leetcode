@@ -11,7 +11,7 @@ function Hero() {
           </span>
 
           <span
-            className="bg-gradient-to-r from-orange-400 to-red-500 bg-clip-text text-transparent font-extralight"
+            className="font-extralight leetcode-gradient"
             style={{ textShadow: "0 0 65px #fb923c, 0 0 80px #f87171" }}>
             Leetcode
           </span>

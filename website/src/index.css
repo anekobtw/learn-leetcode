@@ -2,12 +2,21 @@
 
 
 :root {
-    background-color: oklch(98.5% 0.002 247.839);
+  background-color: oklch(98.5% 0.002 247.839);
 }
 
 body {
-    font-family: 'Inter', sans-serif;
-    overflow: hidden;
-    animation: fadeIn 1s;
-    color: oklch(20.8% 0.042 265.755);
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+  animation: fadeIn 1s;
+  color: oklch(20.8% 0.042 265.755);
+}
+
+.leetcode-gradient {
+  background: linear-gradient(90deg, #fb923c, #ef4444, #f97316, #dc2626);
+  background-size: 200% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
 }

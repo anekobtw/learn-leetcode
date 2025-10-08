@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function NotFound() {
   return (
     <div className="h-screen flex flex-col items-center justify-center text-center px-4">
-      <h1 className="text-9xl font-extrabold mb-4 bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500 bg-clip-text text-transparent drop-shadow-[0_0_25px_rgba(255,165,0,0.5)]">
+      <h1 className="text-9xl font-extrabold mb-4 leetcode-gradient">
         404
       </h1>
 
